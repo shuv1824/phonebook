@@ -1,0 +1,27 @@
+body{
+	background-color: #f9f9f9;
+	font-family: 'Source Code Pro', monospace;
+	font-size: 16px;
+}
+
+.heading{
+	font-weight: 600;
+}
+
+#loader-image{
+	position: absolute;
+	top: 120px;
+	left: 42%;
+	width: 100px;
+	margin: 50px auto;
+}
+
+table thead th{
+	text-align: center;
+}
+
+.btn-small{
+	padding: 0 0.5rem;
+	font-size: 10px;
+	display: inline-block;
+}
